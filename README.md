@@ -2,6 +2,8 @@
 ## Premium 3D Interactive Campaign Website + Functional Growth Engine
 
 > **Live Campaign Title:** *Build Your First AI Project in 60 Minutes*  
+> **Live Public URL:** [https://speedy-squall-7byfjwt.tmp.now](https://speedy-squall-7byfjwt.tmp.now)  
+> **Claim to Vercel Account:** [https://vercel.com/claim-deployment?code=9975c62d-ab58-4f57-95c7-500e58dc35d0](https://vercel.com/claim-deployment?code=9975c62d-ab58-4f57-95c7-500e58dc35d0)  
 > **Campaign Goal:** 500 Confirmed Student Registrations in 7 Days  
 > **Total Marketing Budget:** ₹2,000 (Maximum Blended CPA: ₹4.00)  
 > **Target Audience:** Final-year & pre-final year Indian engineering students (All branches)  
